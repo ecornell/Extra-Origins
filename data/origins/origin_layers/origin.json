@@ -1,0 +1,9 @@
+{
+    "origins": [
+        "extra_origins:darkova",
+        "extra_origins:dragon",
+        "extra_origins:pocca",
+        "extra_origins:overlord"
+    ],
+    "enabled": true
+}

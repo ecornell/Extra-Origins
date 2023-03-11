@@ -1,0 +1,6 @@
+{
+    "name": "Wings",
+    "description": "You are born with natural wings. You have a permanent elytra on your back.",
+    "type": "origins:elytra_flight",
+    "render_elytra": true
+}

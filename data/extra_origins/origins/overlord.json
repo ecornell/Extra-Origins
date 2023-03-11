@@ -1,0 +1,22 @@
+{
+    "name": "Overlord",
+    "description": "Ruler of the Netherworlds",
+    "powers": [     
+        "rpg_origins:speedy",
+        "origins:water_vision",
+        "medievalorigins:siren/amphibious",
+        "medievalorigins:siren/out_of_your_depth",
+        "origins:ender_particles",
+        "origins:extra_reach",
+        "origins:strong_arms",
+        "origins:sprint_jump",
+        "origins:shulker_inventory",
+        "origins:cat_vision"
+    ],
+    "icon": {
+        "item": "minecraft:nether_star"
+    },
+    "order": 21,
+    "impact": 3,
+    "loading_priority": 2
+}

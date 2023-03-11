@@ -1,0 +1,27 @@
+{
+    "name": "Reborn Magic",
+    "description": "The dragon egg emits some sort of familiar magic, making you stronger near it.",
+    "condition": {
+        "type": "origins:block_in_radius",
+        "block_condition": {
+            "type": "origins:block",
+            "block": "minecraft:dragon_egg"
+        },
+        "radius": 25,
+        "shape": "cube",
+        "comparison": ">=",
+        "compare_to": 1
+    },
+    "type": "origins:action_over_time",
+    "interval": 20,
+    "entity_action": {
+        "type": "origins:apply_effect",
+        "effect": {
+            "effect": "minecraft:resistance",
+            "duration": 100,
+            "amplifier": 0,
+            "show_particles": true,
+            "show_icon": true
+        }
+    }
+}

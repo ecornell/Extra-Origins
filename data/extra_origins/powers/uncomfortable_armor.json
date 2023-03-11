@@ -1,0 +1,25 @@
+{
+    "name": "Uncomfortable Armor",
+    "description": "Armor with protection points lower than diamond is uncomfortable for you to wear, so you cannot wear it.",
+    "type": "origins:restrict_armor",
+    "head": {
+        "type": "origins:armor_value",
+        "comparison": "<",
+        "compare_to": 3
+    },
+    "chest": {
+        "type": "origins:armor_value",
+        "comparison": "<",
+        "compare_to": 8
+    },
+    "legs": {
+        "type": "origins:armor_value",
+        "comparison": "<",
+        "compare_to": 6
+    },
+    "feet": {
+        "type": "origins:armor_value",
+        "comparison": "<",
+        "compare_to": 3
+    }
+}

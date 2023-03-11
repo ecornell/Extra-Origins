@@ -1,0 +1,16 @@
+{
+    "schemaVersion": 1,
+    "environment": "*",
+    "depends": {
+        "fabric-api-base": "*",
+        "fabric": "*",
+        "minecraft": "1.19.x",
+        "origins": ">=1.0.0"
+    },
+    "name": "Extra Origins",
+    "id": "extra_origins",
+    "version": "1.0.4",
+    "description": "ye",
+    "license": "Unknown",
+    "pack_format": 10
+}

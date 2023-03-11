@@ -1,0 +1,11 @@
+{
+    "name": "Sturdy Scales",
+    "description": "Your scales make you have natural, permanent armor points.",
+    "type": "origins:attribute",
+    "modifier": {
+        "attribute": "minecraft:generic.armor",
+        "operation": "addition",
+        "value": 4
+    },
+    "update_health": false
+}

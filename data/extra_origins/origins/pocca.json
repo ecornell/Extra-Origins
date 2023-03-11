@@ -1,0 +1,17 @@
+{
+    "name": "Pocca",
+    "description": "Short litte guy ....",
+    "powers": [     
+        "rpg_origins:speedy",
+        "medievalorigins:dwarf/miniature",
+        "medievalorigins:goblin/frail",
+        "origins:velvet_paws",
+        "rpg_origins:heal_pool"
+    ],
+    "icon": {
+        "item": "minecraft:bone"
+    },
+    "order": 21,
+    "impact": 3,
+    "loading_priority": 2
+}

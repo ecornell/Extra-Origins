@@ -1,0 +1,20 @@
+{
+    "name": "Exhausting Heat",
+    "description": "The heat the nether produces is too much for you to handle, so you get hungry there.",
+    "condition": {
+        "type": "origins:dimension",
+        "dimension": "minecraft:the_nether"
+    },
+    "type": "origins:action_over_time",
+    "interval": 20,
+    "entity_action": {
+        "type": "origins:apply_effect",
+        "effect": {
+            "effect": "minecraft:hunger",
+            "duration": 100,
+            "amplifier": 1,
+            "show_particles": true,
+            "show_icon": true
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Darkova",
+    "description": "8 Eyed Beast ....",
+    "powers": [     
+        "medievalorigins:ogre/stocky",
+        "medievalorigins:gorgon/super_strength",
+        "medievalorigins:ogre/gargantuan",
+        "medievalorigins:ogre/unweildy",
+        "medievalorigins:werewolf/insatiable_hunger",
+        "medievalorigins:necromancer/disturbed",
+        "medievalorigins:plague_victim/contagious",
+        "medievalorigins:ogre/lead_belly",
+        "origins:cat_vision",
+        "origins:more_exhaustion",
+        "medievalorigins:werewolf/carnivore",
+        "medievalorigins:werewolf/silver_aversion"
+    ],
+    "icon": {
+        "item": "minecraft:bone"
+    },
+    "order": 20,
+    "impact": 3,
+    "loading_priority": 2
+}
