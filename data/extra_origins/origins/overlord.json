@@ -4,7 +4,7 @@
     "powers": [     
         "rpg_origins:speedy",
         "origins:water_vision",
-        "medievalorigins:siren/amphibious",
+        "origins:swim_speed",
         "medievalorigins:siren/out_of_your_depth",
         "origins:ender_particles",
         "origins:extra_reach",
